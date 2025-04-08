@@ -32,7 +32,7 @@ function show_wishlist() {
 
           cardEl.innerHTML = `
             <div class="card-content">
-                <img src="/media/${card.local_image_path}" alt="${card.name}">
+                <img src="${card.image_url}" alt="${card.name}">
                 <h4>${card.name}</h4>
                 <p>Type: ${formatChoice(card.type)}</p>
                 <p>Stage: ${formatChoice(card.stage)}</p>
