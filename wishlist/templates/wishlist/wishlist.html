@@ -1,0 +1,14 @@
+{% extends "wishlist/layout.html" %}
+{% load static %}
+
+{% block body %}
+<h1>All Cards</h1>
+<div id="card-container"></div>
+{% endblock %}
+
+{% block script %}
+<script>
+    window.cardData = {{ decks_json|safe }};
+</script>
+<script src="{% static 'wishlist.js' %}"></script>
+{% endblock %}

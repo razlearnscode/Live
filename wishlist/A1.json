@@ -1,0 +1,2576 @@
+[
+  {
+    "deck_id": "A1",
+    "card_id": 1,
+    "name": "Bulbasaur",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_001_EN.webp",
+    "local_image_path": "card_images/A1_1.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 2,
+    "name": "Ivysaur",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp",
+    "local_image_path": "card_images/A1_2.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 3,
+    "name": "Venusaur",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp",
+    "local_image_path": "card_images/A1_3.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 4,
+    "name": "Venusaur ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp",
+    "local_image_path": "card_images/A1_4.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 5,
+    "name": "Caterpie",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp",
+    "local_image_path": "card_images/A1_5.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 6,
+    "name": "Metapod",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp",
+    "local_image_path": "card_images/A1_6.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 7,
+    "name": "Butterfree",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp",
+    "local_image_path": "card_images/A1_7.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 8,
+    "name": "Weedle",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp",
+    "local_image_path": "card_images/A1_8.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 9,
+    "name": "Kakuna",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp",
+    "local_image_path": "card_images/A1_9.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 10,
+    "name": "Beedrill",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
+    "local_image_path": "card_images/A1_10.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 11,
+    "name": "Oddish",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp",
+    "local_image_path": "card_images/A1_11.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 12,
+    "name": "Gloom",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp",
+    "local_image_path": "card_images/A1_12.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 13,
+    "name": "Vileplume",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp",
+    "local_image_path": "card_images/A1_13.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 14,
+    "name": "Paras",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp",
+    "local_image_path": "card_images/A1_14.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 15,
+    "name": "Parasect",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp",
+    "local_image_path": "card_images/A1_15.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 16,
+    "name": "Venonat",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp",
+    "local_image_path": "card_images/A1_16.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 17,
+    "name": "Venomoth",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp",
+    "local_image_path": "card_images/A1_17.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 18,
+    "name": "Bellsprout",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp",
+    "local_image_path": "card_images/A1_18.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 19,
+    "name": "Weepinbell",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp",
+    "local_image_path": "card_images/A1_19.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 20,
+    "name": "Victreebel",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
+    "local_image_path": "card_images/A1_20.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 21,
+    "name": "Exeggcute",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp",
+    "local_image_path": "card_images/A1_21.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 22,
+    "name": "Exeggutor",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp",
+    "local_image_path": "card_images/A1_22.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 23,
+    "name": "Exeggutor ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp",
+    "local_image_path": "card_images/A1_23.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 24,
+    "name": "Tangela",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp",
+    "local_image_path": "card_images/A1_24.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 25,
+    "name": "Scyther",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp",
+    "local_image_path": "card_images/A1_25.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 26,
+    "name": "Pinsir",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp",
+    "local_image_path": "card_images/A1_26.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 27,
+    "name": "Cottonee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp",
+    "local_image_path": "card_images/A1_27.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 28,
+    "name": "Whimsicott",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp",
+    "local_image_path": "card_images/A1_28.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 29,
+    "name": "Petilil",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp",
+    "local_image_path": "card_images/A1_29.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 30,
+    "name": "Lilligant",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp",
+    "local_image_path": "card_images/A1_30.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 31,
+    "name": "Skiddo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp",
+    "local_image_path": "card_images/A1_31.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 32,
+    "name": "Gogoat",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
+    "local_image_path": "card_images/A1_32.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 33,
+    "name": "Charmander",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp",
+    "local_image_path": "card_images/A1_33.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 34,
+    "name": "Charmeleon",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp",
+    "local_image_path": "card_images/A1_34.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 35,
+    "name": "Charizard",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp",
+    "local_image_path": "card_images/A1_35.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 36,
+    "name": "Charizard ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp",
+    "local_image_path": "card_images/A1_36.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 37,
+    "name": "Vulpix",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp",
+    "local_image_path": "card_images/A1_37.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 38,
+    "name": "Ninetales",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp",
+    "local_image_path": "card_images/A1_38.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 39,
+    "name": "Growlithe",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp",
+    "local_image_path": "card_images/A1_39.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 40,
+    "name": "Arcanine",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
+    "local_image_path": "card_images/A1_40.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 41,
+    "name": "Arcanine ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp",
+    "local_image_path": "card_images/A1_41.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 42,
+    "name": "Ponyta",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_042_EN.webp",
+    "local_image_path": "card_images/A1_42.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 43,
+    "name": "Rapidash",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp",
+    "local_image_path": "card_images/A1_43.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 44,
+    "name": "Magmar",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp",
+    "local_image_path": "card_images/A1_44.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 45,
+    "name": "Flareon",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp",
+    "local_image_path": "card_images/A1_45.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 46,
+    "name": "Moltres",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp",
+    "local_image_path": "card_images/A1_46.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 47,
+    "name": "Moltres ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp",
+    "local_image_path": "card_images/A1_47.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 48,
+    "name": "Heatmor",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp",
+    "local_image_path": "card_images/A1_48.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 49,
+    "name": "Salandit",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp",
+    "local_image_path": "card_images/A1_49.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 50,
+    "name": "Salazzle",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp",
+    "local_image_path": "card_images/A1_50.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 51,
+    "name": "Sizzlipede",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp",
+    "local_image_path": "card_images/A1_51.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 52,
+    "name": "Centiskorch",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp",
+    "local_image_path": "card_images/A1_52.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 53,
+    "name": "Squirtle",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp",
+    "local_image_path": "card_images/A1_53.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 54,
+    "name": "Wartortle",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp",
+    "local_image_path": "card_images/A1_54.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 55,
+    "name": "Blastoise",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp",
+    "local_image_path": "card_images/A1_55.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 56,
+    "name": "Blastoise ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp",
+    "local_image_path": "card_images/A1_56.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 57,
+    "name": "Psyduck",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp",
+    "local_image_path": "card_images/A1_57.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 58,
+    "name": "Golduck",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp",
+    "local_image_path": "card_images/A1_58.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 59,
+    "name": "Poliwag",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp",
+    "local_image_path": "card_images/A1_59.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 60,
+    "name": "Poliwhirl",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp",
+    "local_image_path": "card_images/A1_60.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 61,
+    "name": "Poliwrath",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp",
+    "local_image_path": "card_images/A1_61.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 62,
+    "name": "Tentacool",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp",
+    "local_image_path": "card_images/A1_62.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 63,
+    "name": "Tentacruel",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp",
+    "local_image_path": "card_images/A1_63.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 64,
+    "name": "Seel",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp",
+    "local_image_path": "card_images/A1_64.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 65,
+    "name": "Dewgong",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
+    "local_image_path": "card_images/A1_65.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 66,
+    "name": "Shellder",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp",
+    "local_image_path": "card_images/A1_66.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 67,
+    "name": "Cloyster",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
+    "local_image_path": "card_images/A1_67.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 68,
+    "name": "Krabby",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp",
+    "local_image_path": "card_images/A1_68.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 69,
+    "name": "Kingler",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp",
+    "local_image_path": "card_images/A1_69.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 70,
+    "name": "Horsea",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp",
+    "local_image_path": "card_images/A1_70.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 71,
+    "name": "Seadra",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp",
+    "local_image_path": "card_images/A1_71.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 72,
+    "name": "Goldeen",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp",
+    "local_image_path": "card_images/A1_72.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 73,
+    "name": "Seaking",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp",
+    "local_image_path": "card_images/A1_73.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 74,
+    "name": "Staryu",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
+    "local_image_path": "card_images/A1_74.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 75,
+    "name": "Starmie",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp",
+    "local_image_path": "card_images/A1_75.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 76,
+    "name": "Starmie ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp",
+    "local_image_path": "card_images/A1_76.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 77,
+    "name": "Magikarp",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp",
+    "local_image_path": "card_images/A1_77.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 78,
+    "name": "Gyarados",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp",
+    "local_image_path": "card_images/A1_78.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 79,
+    "name": "Lapras",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp",
+    "local_image_path": "card_images/A1_79.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 80,
+    "name": "Vaporeon",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp",
+    "local_image_path": "card_images/A1_80.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 81,
+    "name": "Omanyte",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp",
+    "local_image_path": "card_images/A1_81.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 82,
+    "name": "Omastar",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp",
+    "local_image_path": "card_images/A1_82.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 83,
+    "name": "Articuno",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp",
+    "local_image_path": "card_images/A1_83.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 84,
+    "name": "Articuno ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp",
+    "local_image_path": "card_images/A1_84.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 85,
+    "name": "Ducklett",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp",
+    "local_image_path": "card_images/A1_85.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 86,
+    "name": "Swanna",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp",
+    "local_image_path": "card_images/A1_86.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 87,
+    "name": "Froakie",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp",
+    "local_image_path": "card_images/A1_87.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 88,
+    "name": "Frogadier",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp",
+    "local_image_path": "card_images/A1_88.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 89,
+    "name": "Greninja",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp",
+    "local_image_path": "card_images/A1_89.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 90,
+    "name": "Pyukumuku",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp",
+    "local_image_path": "card_images/A1_90.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 91,
+    "name": "Bruxish",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
+    "local_image_path": "card_images/A1_91.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 92,
+    "name": "Snom",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp",
+    "local_image_path": "card_images/A1_92.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 93,
+    "name": "Frosmoth",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp",
+    "local_image_path": "card_images/A1_93.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 94,
+    "name": "Pikachu",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp",
+    "local_image_path": "card_images/A1_94.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 95,
+    "name": "Raichu",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp",
+    "local_image_path": "card_images/A1_95.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 96,
+    "name": "Pikachu ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
+    "local_image_path": "card_images/A1_96.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 97,
+    "name": "Magnemite",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_097_EN.webp",
+    "local_image_path": "card_images/A1_97.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 98,
+    "name": "Magneton",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
+    "local_image_path": "card_images/A1_98.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 99,
+    "name": "Voltorb",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp",
+    "local_image_path": "card_images/A1_99.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 100,
+    "name": "Electrode",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp",
+    "local_image_path": "card_images/A1_100.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 101,
+    "name": "Electabuzz",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp",
+    "local_image_path": "card_images/A1_101.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 102,
+    "name": "Jolteon",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp",
+    "local_image_path": "card_images/A1_102.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 103,
+    "name": "Zapdos",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp",
+    "local_image_path": "card_images/A1_103.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 104,
+    "name": "Zapdos ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp",
+    "local_image_path": "card_images/A1_104.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 105,
+    "name": "Blitzle",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_105_EN.webp",
+    "local_image_path": "card_images/A1_105.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 106,
+    "name": "Zebstrika",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp",
+    "local_image_path": "card_images/A1_106.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 107,
+    "name": "Tynamo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp",
+    "local_image_path": "card_images/A1_107.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 108,
+    "name": "Eelektrik",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp",
+    "local_image_path": "card_images/A1_108.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 109,
+    "name": "Eelektross",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp",
+    "local_image_path": "card_images/A1_109.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 110,
+    "name": "Helioptile",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp",
+    "local_image_path": "card_images/A1_110.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 111,
+    "name": "Heliolisk",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp",
+    "local_image_path": "card_images/A1_111.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 112,
+    "name": "Pincurchin",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp",
+    "local_image_path": "card_images/A1_112.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 113,
+    "name": "Clefairy",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp",
+    "local_image_path": "card_images/A1_113.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 114,
+    "name": "Clefable",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp",
+    "local_image_path": "card_images/A1_114.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 115,
+    "name": "Abra",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp",
+    "local_image_path": "card_images/A1_115.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 116,
+    "name": "Kadabra",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
+    "local_image_path": "card_images/A1_116.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 117,
+    "name": "Alakazam",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp",
+    "local_image_path": "card_images/A1_117.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 118,
+    "name": "Slowpoke",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp",
+    "local_image_path": "card_images/A1_118.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 119,
+    "name": "Slowbro",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp",
+    "local_image_path": "card_images/A1_119.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 120,
+    "name": "Gastly",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp",
+    "local_image_path": "card_images/A1_120.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 121,
+    "name": "Haunter",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp",
+    "local_image_path": "card_images/A1_121.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 122,
+    "name": "Gengar",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp",
+    "local_image_path": "card_images/A1_122.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 123,
+    "name": "Gengar ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp",
+    "local_image_path": "card_images/A1_123.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 124,
+    "name": "Drowzee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_124_EN.webp",
+    "local_image_path": "card_images/A1_124.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 125,
+    "name": "Hypno",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
+    "local_image_path": "card_images/A1_125.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 126,
+    "name": "Mr. Mime",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp",
+    "local_image_path": "card_images/A1_126.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 127,
+    "name": "Jynx",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp",
+    "local_image_path": "card_images/A1_127.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 128,
+    "name": "Mewtwo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp",
+    "local_image_path": "card_images/A1_128.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 129,
+    "name": "Mewtwo ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp",
+    "local_image_path": "card_images/A1_129.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 130,
+    "name": "Ralts",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp",
+    "local_image_path": "card_images/A1_130.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 131,
+    "name": "Kirlia",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp",
+    "local_image_path": "card_images/A1_131.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 132,
+    "name": "Gardevoir",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp",
+    "local_image_path": "card_images/A1_132.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 133,
+    "name": "Woobat",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp",
+    "local_image_path": "card_images/A1_133.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 134,
+    "name": "Swoobat",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
+    "local_image_path": "card_images/A1_134.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 135,
+    "name": "Golett",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp",
+    "local_image_path": "card_images/A1_135.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 136,
+    "name": "Golurk",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp",
+    "local_image_path": "card_images/A1_136.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 137,
+    "name": "Sandshrew",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp",
+    "local_image_path": "card_images/A1_137.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 138,
+    "name": "Sandslash",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp",
+    "local_image_path": "card_images/A1_138.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 139,
+    "name": "Diglett",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp",
+    "local_image_path": "card_images/A1_139.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 140,
+    "name": "Dugtrio",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp",
+    "local_image_path": "card_images/A1_140.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 141,
+    "name": "Mankey",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp",
+    "local_image_path": "card_images/A1_141.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 142,
+    "name": "Primeape",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp",
+    "local_image_path": "card_images/A1_142.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 143,
+    "name": "Machop",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp",
+    "local_image_path": "card_images/A1_143.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 144,
+    "name": "Machoke",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp",
+    "local_image_path": "card_images/A1_144.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 145,
+    "name": "Machamp",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
+    "local_image_path": "card_images/A1_145.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 146,
+    "name": "Machamp ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
+    "local_image_path": "card_images/A1_146.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 147,
+    "name": "Geodude",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp",
+    "local_image_path": "card_images/A1_147.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 148,
+    "name": "Graveler",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
+    "local_image_path": "card_images/A1_148.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 149,
+    "name": "Golem",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
+    "local_image_path": "card_images/A1_149.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 150,
+    "name": "Onix",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp",
+    "local_image_path": "card_images/A1_150.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 151,
+    "name": "Cubone",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp",
+    "local_image_path": "card_images/A1_151.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 152,
+    "name": "Marowak",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp",
+    "local_image_path": "card_images/A1_152.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 153,
+    "name": "Marowak ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp",
+    "local_image_path": "card_images/A1_153.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 154,
+    "name": "Hitmonlee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp",
+    "local_image_path": "card_images/A1_154.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 155,
+    "name": "Hitmonchan",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp",
+    "local_image_path": "card_images/A1_155.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 156,
+    "name": "Rhyhorn",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp",
+    "local_image_path": "card_images/A1_156.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 157,
+    "name": "Rhydon",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
+    "local_image_path": "card_images/A1_157.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 158,
+    "name": "Kabuto",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp",
+    "local_image_path": "card_images/A1_158.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 159,
+    "name": "Kabutops",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp",
+    "local_image_path": "card_images/A1_159.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 160,
+    "name": "Mienfoo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp",
+    "local_image_path": "card_images/A1_160.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 161,
+    "name": "Mienshao",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp",
+    "local_image_path": "card_images/A1_161.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 162,
+    "name": "Clobbopus",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp",
+    "local_image_path": "card_images/A1_162.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 163,
+    "name": "Grapploct",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
+    "local_image_path": "card_images/A1_163.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 164,
+    "name": "Ekans",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp",
+    "local_image_path": "card_images/A1_164.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 165,
+    "name": "Arbok",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
+    "local_image_path": "card_images/A1_165.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 166,
+    "name": "Nidoran\u2640",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp",
+    "local_image_path": "card_images/A1_166.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 167,
+    "name": "Nidorina",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp",
+    "local_image_path": "card_images/A1_167.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 168,
+    "name": "Nidoqueen",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp",
+    "local_image_path": "card_images/A1_168.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 169,
+    "name": "Nidoran\u2642",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp",
+    "local_image_path": "card_images/A1_169.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 170,
+    "name": "Nidorino",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp",
+    "local_image_path": "card_images/A1_170.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 171,
+    "name": "Nidoking",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp",
+    "local_image_path": "card_images/A1_171.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 172,
+    "name": "Zubat",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp",
+    "local_image_path": "card_images/A1_172.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 173,
+    "name": "Golbat",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
+    "local_image_path": "card_images/A1_173.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 174,
+    "name": "Grimer",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
+    "local_image_path": "card_images/A1_174.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 175,
+    "name": "Muk",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
+    "local_image_path": "card_images/A1_175.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 176,
+    "name": "Koffing",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp",
+    "local_image_path": "card_images/A1_176.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 177,
+    "name": "Weezing",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp",
+    "local_image_path": "card_images/A1_177.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 178,
+    "name": "Mawile",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp",
+    "local_image_path": "card_images/A1_178.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 179,
+    "name": "Pawniard",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp",
+    "local_image_path": "card_images/A1_179.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 180,
+    "name": "Bisharp",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
+    "local_image_path": "card_images/A1_180.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 181,
+    "name": "Meltan",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp",
+    "local_image_path": "card_images/A1_181.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 182,
+    "name": "Melmetal",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
+    "local_image_path": "card_images/A1_182.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 183,
+    "name": "Dratini",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp",
+    "local_image_path": "card_images/A1_183.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 184,
+    "name": "Dragonair",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp",
+    "local_image_path": "card_images/A1_184.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 185,
+    "name": "Dragonite",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp",
+    "local_image_path": "card_images/A1_185.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 186,
+    "name": "Pidgey",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp",
+    "local_image_path": "card_images/A1_186.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 187,
+    "name": "Pidgeotto",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp",
+    "local_image_path": "card_images/A1_187.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 188,
+    "name": "Pidgeot",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
+    "local_image_path": "card_images/A1_188.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 189,
+    "name": "Rattata",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp",
+    "local_image_path": "card_images/A1_189.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 190,
+    "name": "Raticate",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp",
+    "local_image_path": "card_images/A1_190.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 191,
+    "name": "Spearow",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp",
+    "local_image_path": "card_images/A1_191.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 192,
+    "name": "Fearow",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
+    "local_image_path": "card_images/A1_192.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 193,
+    "name": "Jigglypuff",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp",
+    "local_image_path": "card_images/A1_193.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 194,
+    "name": "Wigglytuff",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp",
+    "local_image_path": "card_images/A1_194.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 195,
+    "name": "Wigglytuff ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp",
+    "local_image_path": "card_images/A1_195.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 196,
+    "name": "Meowth",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp",
+    "local_image_path": "card_images/A1_196.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 197,
+    "name": "Persian",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp",
+    "local_image_path": "card_images/A1_197.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 198,
+    "name": "Farfetch'd",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
+    "local_image_path": "card_images/A1_198.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 199,
+    "name": "Doduo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp",
+    "local_image_path": "card_images/A1_199.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 200,
+    "name": "Dodrio",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp",
+    "local_image_path": "card_images/A1_200.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 201,
+    "name": "Lickitung",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp",
+    "local_image_path": "card_images/A1_201.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 202,
+    "name": "Chansey",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp",
+    "local_image_path": "card_images/A1_202.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 203,
+    "name": "Kangaskhan",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp",
+    "local_image_path": "card_images/A1_203.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 204,
+    "name": "Tauros",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp",
+    "local_image_path": "card_images/A1_204.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 205,
+    "name": "Ditto",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp",
+    "local_image_path": "card_images/A1_205.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 206,
+    "name": "Eevee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp",
+    "local_image_path": "card_images/A1_206.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 207,
+    "name": "Eevee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp",
+    "local_image_path": "card_images/A1_207.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 208,
+    "name": "Eevee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp",
+    "local_image_path": "card_images/A1_208.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 209,
+    "name": "Porygon",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp",
+    "local_image_path": "card_images/A1_209.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 210,
+    "name": "Aerodactyl",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp",
+    "local_image_path": "card_images/A1_210.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 211,
+    "name": "Snorlax",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
+    "local_image_path": "card_images/A1_211.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 212,
+    "name": "Minccino",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp",
+    "local_image_path": "card_images/A1_212.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 213,
+    "name": "Cinccino",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp",
+    "local_image_path": "card_images/A1_213.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 214,
+    "name": "Wooloo",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp",
+    "local_image_path": "card_images/A1_214.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 215,
+    "name": "Dubwool",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp",
+    "local_image_path": "card_images/A1_215.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 216,
+    "name": "Helix Fossil",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp",
+    "local_image_path": "card_images/A1_216.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 217,
+    "name": "Dome Fossil",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp",
+    "local_image_path": "card_images/A1_217.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 218,
+    "name": "Old Amber",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp",
+    "local_image_path": "card_images/A1_218.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 219,
+    "name": "Erika",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp",
+    "local_image_path": "card_images/A1_219.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 220,
+    "name": "Misty",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp",
+    "local_image_path": "card_images/A1_220.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 221,
+    "name": "Blaine",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp",
+    "local_image_path": "card_images/A1_221.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 222,
+    "name": "Koga",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp",
+    "local_image_path": "card_images/A1_222.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 223,
+    "name": "Giovanni",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp",
+    "local_image_path": "card_images/A1_223.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 224,
+    "name": "Brock",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp",
+    "local_image_path": "card_images/A1_224.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 225,
+    "name": "Sabrina",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp",
+    "local_image_path": "card_images/A1_225.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 226,
+    "name": "Lt. Surge",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp",
+    "local_image_path": "card_images/A1_226.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 227,
+    "name": "Bulbasaur",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp",
+    "local_image_path": "card_images/A1_227.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 228,
+    "name": "Gloom",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp",
+    "local_image_path": "card_images/A1_228.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 229,
+    "name": "Pinsir",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp",
+    "local_image_path": "card_images/A1_229.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 230,
+    "name": "Charmander",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
+    "local_image_path": "card_images/A1_230.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 231,
+    "name": "Rapidash",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp",
+    "local_image_path": "card_images/A1_231.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 232,
+    "name": "Squirtle",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp",
+    "local_image_path": "card_images/A1_232.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 233,
+    "name": "Gyarados",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp",
+    "local_image_path": "card_images/A1_233.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 234,
+    "name": "Lapras",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
+    "local_image_path": "card_images/A1_234.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 235,
+    "name": "Electrode",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp",
+    "local_image_path": "card_images/A1_235.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 236,
+    "name": "Alakazam",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp",
+    "local_image_path": "card_images/A1_236.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 237,
+    "name": "Slowpoke",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp",
+    "local_image_path": "card_images/A1_237.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 238,
+    "name": "Diglett",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp",
+    "local_image_path": "card_images/A1_238.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 239,
+    "name": "Cubone",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp",
+    "local_image_path": "card_images/A1_239.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 240,
+    "name": "Nidoqueen",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
+    "local_image_path": "card_images/A1_240.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 241,
+    "name": "Nidoking",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp",
+    "local_image_path": "card_images/A1_241.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 242,
+    "name": "Golbat",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp",
+    "local_image_path": "card_images/A1_242.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 243,
+    "name": "Weezing",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp",
+    "local_image_path": "card_images/A1_243.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 244,
+    "name": "Dragonite",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp",
+    "local_image_path": "card_images/A1_244.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 245,
+    "name": "Pidgeot",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp",
+    "local_image_path": "card_images/A1_245.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 246,
+    "name": "Meowth",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp",
+    "local_image_path": "card_images/A1_246.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 247,
+    "name": "Ditto",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp",
+    "local_image_path": "card_images/A1_247.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 248,
+    "name": "Eevee",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp",
+    "local_image_path": "card_images/A1_248.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 249,
+    "name": "Porygon",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp",
+    "local_image_path": "card_images/A1_249.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 250,
+    "name": "Snorlax",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp",
+    "local_image_path": "card_images/A1_250.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 251,
+    "name": "Venusaur ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp",
+    "local_image_path": "card_images/A1_251.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 252,
+    "name": "Exeggutor ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp",
+    "local_image_path": "card_images/A1_252.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 253,
+    "name": "Charizard ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp",
+    "local_image_path": "card_images/A1_253.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 254,
+    "name": "Arcanine ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp",
+    "local_image_path": "card_images/A1_254.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 255,
+    "name": "Moltres ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_255_EN.webp",
+    "local_image_path": "card_images/A1_255.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 256,
+    "name": "Blastoise ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp",
+    "local_image_path": "card_images/A1_256.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 257,
+    "name": "Starmie ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp",
+    "local_image_path": "card_images/A1_257.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 258,
+    "name": "Articuno ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp",
+    "local_image_path": "card_images/A1_258.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 259,
+    "name": "Pikachu ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_259_EN.webp",
+    "local_image_path": "card_images/A1_259.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 260,
+    "name": "Zapdos ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp",
+    "local_image_path": "card_images/A1_260.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 261,
+    "name": "Gengar ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp",
+    "local_image_path": "card_images/A1_261.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 262,
+    "name": "Mewtwo ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp",
+    "local_image_path": "card_images/A1_262.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 263,
+    "name": "Machamp ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_263_EN.webp",
+    "local_image_path": "card_images/A1_263.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 264,
+    "name": "Marowak ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp",
+    "local_image_path": "card_images/A1_264.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 265,
+    "name": "Wigglytuff ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp",
+    "local_image_path": "card_images/A1_265.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 266,
+    "name": "Erika",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp",
+    "local_image_path": "card_images/A1_266.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 267,
+    "name": "Misty",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp",
+    "local_image_path": "card_images/A1_267.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 268,
+    "name": "Blaine",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp",
+    "local_image_path": "card_images/A1_268.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 269,
+    "name": "Koga",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp",
+    "local_image_path": "card_images/A1_269.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 270,
+    "name": "Giovanni",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp",
+    "local_image_path": "card_images/A1_270.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 271,
+    "name": "Brock",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp",
+    "local_image_path": "card_images/A1_271.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 272,
+    "name": "Sabrina",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp",
+    "local_image_path": "card_images/A1_272.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 273,
+    "name": "Lt. Surge",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp",
+    "local_image_path": "card_images/A1_273.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 274,
+    "name": "Moltres ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp",
+    "local_image_path": "card_images/A1_274.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 275,
+    "name": "Articuno ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_275_EN.webp",
+    "local_image_path": "card_images/A1_275.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 276,
+    "name": "Zapdos ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp",
+    "local_image_path": "card_images/A1_276.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 277,
+    "name": "Gengar ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp",
+    "local_image_path": "card_images/A1_277.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 278,
+    "name": "Machamp ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp",
+    "local_image_path": "card_images/A1_278.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 279,
+    "name": "Wigglytuff ex",
+    "type": "Pokémon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp",
+    "local_image_path": "card_images/A1_279.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 280,
+    "name": "Charizard ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_280_EN.webp",
+    "local_image_path": "card_images/A1_280.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 281,
+    "name": "Pikachu ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_281_EN.webp",
+    "local_image_path": "card_images/A1_281.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 282,
+    "name": "Mewtwo ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp",
+    "local_image_path": "card_images/A1_282.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 283,
+    "name": "Mew",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_283_EN.webp",
+    "local_image_path": "card_images/A1_283.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 284,
+    "name": "Charizard ex",
+    "type": "Pokémon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp",
+    "local_image_path": "card_images/A1_284.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 285,
+    "name": "Pikachu ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp",
+    "local_image_path": "card_images/A1_285.webp"
+  },
+  {
+    "deck_id": "A1",
+    "card_id": 286,
+    "name": "Mewtwo ex",
+    "type": "Pokémon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp",
+    "local_image_path": "card_images/A1_286.webp"
+  }
+]
