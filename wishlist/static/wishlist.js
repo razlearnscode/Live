@@ -42,6 +42,10 @@ function show_wishlist() {
                     `;
 
           grid.appendChild(cardEl);
+
+          const removeBtn = cardEl.querySelector(".remove-btn");
+          removeBtn.addEventListener("click", () => remove_from_wishlist(card.id));
+
         });
 
         // Only show deck if it has wishlist cards
