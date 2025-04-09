@@ -74,6 +74,7 @@ body {
     align-items: center;
     gap: 0.4rem;
     pointer-events: auto;
+    touch-action: manipulation;
 }
 
 .card:hover .card-overlay {
