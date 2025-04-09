@@ -32,18 +32,22 @@ function show_wishlist() {
 
           cardEl.innerHTML = `
             <div class="card-content">
-                <img src="${card.image_url}" alt="${card.name}">
+                <img src="/media/${card.local_image_path}" alt="${card.name}">
                 <h4>${card.name}</h4>
                 <p>Type: ${formatChoice(card.type)}</p>
                 <p>Stage: ${formatChoice(card.stage)}</p>
             </div>
             <div class="card-overlay"></div>
-            <button class="remove-btn" onclick="remove_from_wishlist(${
-              card.id
-            })">Remove</button>
                     `;
 
+          const button = document.createElement("button");
+          button.classList.add("remove-btn");
+          button.innerHTML = "Remove";
+          button.addEventListener("click", () => remove_from_wishlist(card.id));
+          cardEl.appendChild(button);
+
           grid.appendChild(cardEl);
+
         });
 
         // Only show deck if it has wishlist cards
