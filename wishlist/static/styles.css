@@ -51,7 +51,7 @@ body {
     opacity: 0;
     transition: opacity 0.3s ease;
     z-index: 2;
-    pointer-events: auto; /* 👈 ensures it can receive clicks */
+    pointer-events: none; /* allow taps to go through */
 }
 
 /* Remove button */
@@ -70,6 +70,7 @@ body {
     opacity: 0;
     transition: opacity 0.3s ease, transform 0.3s ease;
     z-index: 3;
+    pointer-events: auto;
     display: flex;
     align-items: center;
     gap: 0.4rem;
