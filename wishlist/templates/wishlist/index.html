@@ -12,8 +12,6 @@
 {% endblock %}
 
 {% block script %}
-<script>
-    window.cardData = {{ decks_json|safe }};
-</script>
-<script src="{% static 'wishlist.js' %}"></script>
+
+<script src="{% static 'wishlist/wishlist.js' %}"></script>
 {% endblock %}
