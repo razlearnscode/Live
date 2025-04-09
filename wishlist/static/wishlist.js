@@ -38,9 +38,7 @@ function show_wishlist() {
                 <p>Stage: ${formatChoice(card.stage)}</p>
             </div>
             <div class="card-overlay"></div>
-            <button class="remove-btn" onclick="remove_from_wishlist(${
-              card.id
-            })">Remove</button>
+            <button class="remove-btn">Remove</button>
                     `;
 
           grid.appendChild(cardEl);
