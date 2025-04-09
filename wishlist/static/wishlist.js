@@ -38,13 +38,15 @@ function show_wishlist() {
                 <p>Stage: ${formatChoice(card.stage)}</p>
             </div>
             <div class="card-overlay"></div>
-            <button class="remove-btn">Remove</button>
                     `;
 
-          grid.appendChild(cardEl);
+          const button = document.createElement("button");
+          button.classList.add("remove-btn");
+          button.innerHTML = "Remove";
+          button.addEventListener("click", () => remove_from_wishlist(card.id));
+          cardEl.appendChild(button);
 
-          const removeBtn = cardEl.querySelector(".remove-btn");
-          removeBtn.addEventListener("click", () => remove_from_wishlist(card.id));
+          grid.appendChild(cardEl);
 
         });
 
