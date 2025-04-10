@@ -5,9 +5,11 @@ import json
 from wishlist.models import Deck, Wishlist, Card
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
+from django.views.decorators.csrf import ensure_csrf_cookie
 
 
 # Create your views here.
+@ensure_csrf_cookie
 def index(request):
     decks = Deck.objects.prefetch_related('cards').all()
 

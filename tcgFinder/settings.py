@@ -139,3 +139,7 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
+
+# settings.py
+CSRF_COOKIE_HTTPONLY = False  # Let JavaScript read the CSRF cookie
+CSRF_TRUSTED_ORIGINS = ['https://yourdomain.com']  # If deployed
