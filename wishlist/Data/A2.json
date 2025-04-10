@@ -1,0 +1,2072 @@
+[
+  {
+    "deck_id": "A2",
+    "card_id": 1,
+    "name": "Oddish",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_001_EN.webp",
+    "local_image_path": "card_images/A2_1.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 2,
+    "name": "Gloom",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_002_EN.webp",
+    "local_image_path": "card_images/A2_2.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 3,
+    "name": "Bellossom",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_003_EN.webp",
+    "local_image_path": "card_images/A2_3.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 4,
+    "name": "Tangela",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_004_EN.webp",
+    "local_image_path": "card_images/A2_4.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 5,
+    "name": "Tangrowth",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_005_EN.webp",
+    "local_image_path": "card_images/A2_5.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 6,
+    "name": "Yanma",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_006_EN.webp",
+    "local_image_path": "card_images/A2_6.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 7,
+    "name": "Yanmega ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_007_EN.webp",
+    "local_image_path": "card_images/A2_7.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 8,
+    "name": "Roselia",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_008_EN.webp",
+    "local_image_path": "card_images/A2_8.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 9,
+    "name": "Roserade",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_009_EN.webp",
+    "local_image_path": "card_images/A2_9.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 10,
+    "name": "Turtwig",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_010_EN.webp",
+    "local_image_path": "card_images/A2_10.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 11,
+    "name": "Grotle",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_011_EN.webp",
+    "local_image_path": "card_images/A2_11.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 12,
+    "name": "Torterra",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_012_EN.webp",
+    "local_image_path": "card_images/A2_12.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 13,
+    "name": "Kricketot",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_013_EN.webp",
+    "local_image_path": "card_images/A2_13.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 14,
+    "name": "Kricketune",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_014_EN.webp",
+    "local_image_path": "card_images/A2_14.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 15,
+    "name": "Burmy",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_015_EN.webp",
+    "local_image_path": "card_images/A2_15.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 16,
+    "name": "Wormadam",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_016_EN.webp",
+    "local_image_path": "card_images/A2_16.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 17,
+    "name": "Combee",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_017_EN.webp",
+    "local_image_path": "card_images/A2_17.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 18,
+    "name": "Vespiquen",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_018_EN.webp",
+    "local_image_path": "card_images/A2_18.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 19,
+    "name": "Carnivine",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_019_EN.webp",
+    "local_image_path": "card_images/A2_19.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 20,
+    "name": "Leafeon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_020_EN.webp",
+    "local_image_path": "card_images/A2_20.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 21,
+    "name": "Mow Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_021_EN.webp",
+    "local_image_path": "card_images/A2_21.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 22,
+    "name": "Shaymin",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_022_EN.webp",
+    "local_image_path": "card_images/A2_22.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 23,
+    "name": "Magmar",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_023_EN.webp",
+    "local_image_path": "card_images/A2_23.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 24,
+    "name": "Magmortar",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_024_EN.webp",
+    "local_image_path": "card_images/A2_24.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 25,
+    "name": "Slugma",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_025_EN.webp",
+    "local_image_path": "card_images/A2_25.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 26,
+    "name": "Magcargo",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_026_EN.webp",
+    "local_image_path": "card_images/A2_26.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 27,
+    "name": "Chimchar",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_027_EN.webp",
+    "local_image_path": "card_images/A2_27.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 28,
+    "name": "Monferno",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_028_EN.webp",
+    "local_image_path": "card_images/A2_28.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 29,
+    "name": "Infernape ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_029_EN.webp",
+    "local_image_path": "card_images/A2_29.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 30,
+    "name": "Heat Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_030_EN.webp",
+    "local_image_path": "card_images/A2_30.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 31,
+    "name": "Swinub",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_031_EN.webp",
+    "local_image_path": "card_images/A2_31.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 32,
+    "name": "Piloswine",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_032_EN.webp",
+    "local_image_path": "card_images/A2_32.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 33,
+    "name": "Mamoswine",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_033_EN.webp",
+    "local_image_path": "card_images/A2_33.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 34,
+    "name": "Regice",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_034_EN.webp",
+    "local_image_path": "card_images/A2_34.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 35,
+    "name": "Piplup",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_035_EN.webp",
+    "local_image_path": "card_images/A2_35.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 36,
+    "name": "Prinplup",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_036_EN.webp",
+    "local_image_path": "card_images/A2_36.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 37,
+    "name": "Empoleon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_037_EN.webp",
+    "local_image_path": "card_images/A2_37.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 38,
+    "name": "Buizel",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_038_EN.webp",
+    "local_image_path": "card_images/A2_38.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 39,
+    "name": "Floatzel",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_039_EN.webp",
+    "local_image_path": "card_images/A2_39.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 40,
+    "name": "Shellos",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_040_EN.webp",
+    "local_image_path": "card_images/A2_40.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 41,
+    "name": "Gastrodon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_041_EN.webp",
+    "local_image_path": "card_images/A2_41.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 42,
+    "name": "Finneon",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_042_EN.webp",
+    "local_image_path": "card_images/A2_42.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 43,
+    "name": "Lumineon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_043_EN.webp",
+    "local_image_path": "card_images/A2_43.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 44,
+    "name": "Snover",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_044_EN.webp",
+    "local_image_path": "card_images/A2_44.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 45,
+    "name": "Abomasnow",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_045_EN.webp",
+    "local_image_path": "card_images/A2_45.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 46,
+    "name": "Glaceon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_046_EN.webp",
+    "local_image_path": "card_images/A2_46.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 47,
+    "name": "Wash Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_047_EN.webp",
+    "local_image_path": "card_images/A2_47.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 48,
+    "name": "Frost Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_048_EN.webp",
+    "local_image_path": "card_images/A2_48.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 49,
+    "name": "Palkia ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_049_EN.webp",
+    "local_image_path": "card_images/A2_49.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 50,
+    "name": "Manaphy",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_050_EN.webp",
+    "local_image_path": "card_images/A2_50.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 51,
+    "name": "Magnemite",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_051_EN.webp",
+    "local_image_path": "card_images/A2_51.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 52,
+    "name": "Magneton",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_052_EN.webp",
+    "local_image_path": "card_images/A2_52.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 53,
+    "name": "Magnezone",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_053_EN.webp",
+    "local_image_path": "card_images/A2_53.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 54,
+    "name": "Voltorb",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_054_EN.webp",
+    "local_image_path": "card_images/A2_54.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 55,
+    "name": "Electrode",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_055_EN.webp",
+    "local_image_path": "card_images/A2_55.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 56,
+    "name": "Electabuzz",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_056_EN.webp",
+    "local_image_path": "card_images/A2_56.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 57,
+    "name": "Electivire",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_057_EN.webp",
+    "local_image_path": "card_images/A2_57.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 58,
+    "name": "Shinx",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_058_EN.webp",
+    "local_image_path": "card_images/A2_58.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 59,
+    "name": "Luxio",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_059_EN.webp",
+    "local_image_path": "card_images/A2_59.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 60,
+    "name": "Luxray",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_060_EN.webp",
+    "local_image_path": "card_images/A2_60.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 61,
+    "name": "Pachirisu ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_061_EN.webp",
+    "local_image_path": "card_images/A2_61.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 62,
+    "name": "Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_062_EN.webp",
+    "local_image_path": "card_images/A2_62.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 63,
+    "name": "Togepi",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_063_EN.webp",
+    "local_image_path": "card_images/A2_63.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 64,
+    "name": "Togetic",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_064_EN.webp",
+    "local_image_path": "card_images/A2_64.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 65,
+    "name": "Togekiss",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_065_EN.webp",
+    "local_image_path": "card_images/A2_65.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 66,
+    "name": "Misdreavus",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_066_EN.webp",
+    "local_image_path": "card_images/A2_66.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 67,
+    "name": "Mismagius ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_067_EN.webp",
+    "local_image_path": "card_images/A2_67.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 68,
+    "name": "Ralts",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_068_EN.webp",
+    "local_image_path": "card_images/A2_68.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 69,
+    "name": "Kirlia",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_069_EN.webp",
+    "local_image_path": "card_images/A2_69.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 70,
+    "name": "Duskull",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_070_EN.webp",
+    "local_image_path": "card_images/A2_70.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 71,
+    "name": "Dusclops",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_071_EN.webp",
+    "local_image_path": "card_images/A2_71.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 72,
+    "name": "Dusknoir",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_072_EN.webp",
+    "local_image_path": "card_images/A2_72.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 73,
+    "name": "Drifloon",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_073_EN.webp",
+    "local_image_path": "card_images/A2_73.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 74,
+    "name": "Drifblim",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_074_EN.webp",
+    "local_image_path": "card_images/A2_74.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 75,
+    "name": "Uxie",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_075_EN.webp",
+    "local_image_path": "card_images/A2_75.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 76,
+    "name": "Mesprit",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_076_EN.webp",
+    "local_image_path": "card_images/A2_76.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 77,
+    "name": "Azelf",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_077_EN.webp",
+    "local_image_path": "card_images/A2_77.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 78,
+    "name": "Giratina",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_078_EN.webp",
+    "local_image_path": "card_images/A2_78.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 79,
+    "name": "Cresselia",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_079_EN.webp",
+    "local_image_path": "card_images/A2_79.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 80,
+    "name": "Rhyhorn",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_080_EN.webp",
+    "local_image_path": "card_images/A2_80.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 81,
+    "name": "Rhydon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_081_EN.webp",
+    "local_image_path": "card_images/A2_81.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 82,
+    "name": "Rhyperior",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_082_EN.webp",
+    "local_image_path": "card_images/A2_82.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 83,
+    "name": "Gligar",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_083_EN.webp",
+    "local_image_path": "card_images/A2_83.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 84,
+    "name": "Gliscor",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_084_EN.webp",
+    "local_image_path": "card_images/A2_84.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 85,
+    "name": "Hitmontop",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_085_EN.webp",
+    "local_image_path": "card_images/A2_85.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 86,
+    "name": "Nosepass",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_086_EN.webp",
+    "local_image_path": "card_images/A2_86.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 87,
+    "name": "Regirock",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_087_EN.webp",
+    "local_image_path": "card_images/A2_87.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 88,
+    "name": "Cranidos",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_088_EN.webp",
+    "local_image_path": "card_images/A2_88.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 89,
+    "name": "Rampardos",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_089_EN.webp",
+    "local_image_path": "card_images/A2_89.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 90,
+    "name": "Wormadam",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_090_EN.webp",
+    "local_image_path": "card_images/A2_90.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 91,
+    "name": "Riolu",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_091_EN.webp",
+    "local_image_path": "card_images/A2_91.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 92,
+    "name": "Lucario",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_092_EN.webp",
+    "local_image_path": "card_images/A2_92.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 93,
+    "name": "Hippopotas",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_093_EN.webp",
+    "local_image_path": "card_images/A2_93.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 94,
+    "name": "Hippowdon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_094_EN.webp",
+    "local_image_path": "card_images/A2_94.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 95,
+    "name": "Gallade ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_095_EN.webp",
+    "local_image_path": "card_images/A2_95.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 96,
+    "name": "Murkrow",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_096_EN.webp",
+    "local_image_path": "card_images/A2_96.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 97,
+    "name": "Honchkrow",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_097_EN.webp",
+    "local_image_path": "card_images/A2_97.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 98,
+    "name": "Sneasel",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_098_EN.webp",
+    "local_image_path": "card_images/A2_98.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 99,
+    "name": "Weavile ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_099_EN.webp",
+    "local_image_path": "card_images/A2_99.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 100,
+    "name": "Poochyena",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_100_EN.webp",
+    "local_image_path": "card_images/A2_100.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 101,
+    "name": "Mightyena",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_101_EN.webp",
+    "local_image_path": "card_images/A2_101.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 102,
+    "name": "Stunky",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_102_EN.webp",
+    "local_image_path": "card_images/A2_102.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 103,
+    "name": "Skuntank",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_103_EN.webp",
+    "local_image_path": "card_images/A2_103.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 104,
+    "name": "Spiritomb",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_104_EN.webp",
+    "local_image_path": "card_images/A2_104.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 105,
+    "name": "Skorupi",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_105_EN.webp",
+    "local_image_path": "card_images/A2_105.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 106,
+    "name": "Drapion",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_106_EN.webp",
+    "local_image_path": "card_images/A2_106.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 107,
+    "name": "Croagunk",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_107_EN.webp",
+    "local_image_path": "card_images/A2_107.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 108,
+    "name": "Toxicroak",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_108_EN.webp",
+    "local_image_path": "card_images/A2_108.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 109,
+    "name": "Darkrai",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_109_EN.webp",
+    "local_image_path": "card_images/A2_109.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 110,
+    "name": "Darkrai ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_110_EN.webp",
+    "local_image_path": "card_images/A2_110.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 111,
+    "name": "Skarmory",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_111_EN.webp",
+    "local_image_path": "card_images/A2_111.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 112,
+    "name": "Registeel",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_112_EN.webp",
+    "local_image_path": "card_images/A2_112.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 113,
+    "name": "Shieldon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_113_EN.webp",
+    "local_image_path": "card_images/A2_113.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 114,
+    "name": "Bastiodon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_114_EN.webp",
+    "local_image_path": "card_images/A2_114.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 115,
+    "name": "Wormadam",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_115_EN.webp",
+    "local_image_path": "card_images/A2_115.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 116,
+    "name": "Bronzor",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_116_EN.webp",
+    "local_image_path": "card_images/A2_116.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 117,
+    "name": "Bronzong",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_117_EN.webp",
+    "local_image_path": "card_images/A2_117.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 118,
+    "name": "Probopass",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_118_EN.webp",
+    "local_image_path": "card_images/A2_118.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 119,
+    "name": "Dialga ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_119_EN.webp",
+    "local_image_path": "card_images/A2_119.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 120,
+    "name": "Heatran",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_120_EN.webp",
+    "local_image_path": "card_images/A2_120.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 121,
+    "name": "Gible",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_121_EN.webp",
+    "local_image_path": "card_images/A2_121.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 122,
+    "name": "Gabite",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_122_EN.webp",
+    "local_image_path": "card_images/A2_122.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 123,
+    "name": "Garchomp",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_123_EN.webp",
+    "local_image_path": "card_images/A2_123.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 124,
+    "name": "Lickitung",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_124_EN.webp",
+    "local_image_path": "card_images/A2_124.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 125,
+    "name": "Lickilicky ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_125_EN.webp",
+    "local_image_path": "card_images/A2_125.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 126,
+    "name": "Eevee",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_126_EN.webp",
+    "local_image_path": "card_images/A2_126.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 127,
+    "name": "Porygon",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_127_EN.webp",
+    "local_image_path": "card_images/A2_127.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 128,
+    "name": "Porygon2",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_128_EN.webp",
+    "local_image_path": "card_images/A2_128.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 129,
+    "name": "Porygon-Z",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN.webp",
+    "local_image_path": "card_images/A2_129.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 130,
+    "name": "Aipom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_130_EN.webp",
+    "local_image_path": "card_images/A2_130.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 131,
+    "name": "Ambipom",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_131_EN.webp",
+    "local_image_path": "card_images/A2_131.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 132,
+    "name": "Starly",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_132_EN.webp",
+    "local_image_path": "card_images/A2_132.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 133,
+    "name": "Staravia",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_133_EN.webp",
+    "local_image_path": "card_images/A2_133.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 134,
+    "name": "Staraptor",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_134_EN.webp",
+    "local_image_path": "card_images/A2_134.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 135,
+    "name": "Bidoof",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_135_EN.webp",
+    "local_image_path": "card_images/A2_135.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 136,
+    "name": "Bibarel",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_136_EN.webp",
+    "local_image_path": "card_images/A2_136.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 137,
+    "name": "Buneary",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_137_EN.webp",
+    "local_image_path": "card_images/A2_137.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 138,
+    "name": "Lopunny",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_138_EN.webp",
+    "local_image_path": "card_images/A2_138.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 139,
+    "name": "Glameow",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_139_EN.webp",
+    "local_image_path": "card_images/A2_139.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 140,
+    "name": "Purugly",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_140_EN.webp",
+    "local_image_path": "card_images/A2_140.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 141,
+    "name": "Chatot",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.webp",
+    "local_image_path": "card_images/A2_141.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 142,
+    "name": "Fan Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_142_EN.webp",
+    "local_image_path": "card_images/A2_142.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 143,
+    "name": "Regigigas",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_143_EN.webp",
+    "local_image_path": "card_images/A2_143.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 144,
+    "name": "Skull Fossil",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp",
+    "local_image_path": "card_images/A2_144.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 145,
+    "name": "Armor Fossil",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_145_EN.webp",
+    "local_image_path": "card_images/A2_145.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 146,
+    "name": "Pok\u00e9mon Communication",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_146_EN.webp",
+    "local_image_path": "card_images/A2_146.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 147,
+    "name": "Giant Cape",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_147_EN.webp",
+    "local_image_path": "card_images/A2_147.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 148,
+    "name": "Rocky Helmet",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_148_EN.webp",
+    "local_image_path": "card_images/A2_148.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 149,
+    "name": "Lum Berry",
+    "type": "Trainer",
+    "stage": null,
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_149_EN.webp",
+    "local_image_path": "card_images/A2_149.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 150,
+    "name": "Cyrus",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_150_EN.webp",
+    "local_image_path": "card_images/A2_150.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 151,
+    "name": "Team Galactic Grunt",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_151_EN.webp",
+    "local_image_path": "card_images/A2_151.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 152,
+    "name": "Cynthia",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_152_EN.webp",
+    "local_image_path": "card_images/A2_152.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 153,
+    "name": "Volkner",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_153_EN.webp",
+    "local_image_path": "card_images/A2_153.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 154,
+    "name": "Dawn",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_154_EN.webp",
+    "local_image_path": "card_images/A2_154.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 155,
+    "name": "Mars",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_155_EN.webp",
+    "local_image_path": "card_images/A2_155.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 156,
+    "name": "Tangrowth",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_156_EN.webp",
+    "local_image_path": "card_images/A2_156.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 157,
+    "name": "Combee",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_157_EN.webp",
+    "local_image_path": "card_images/A2_157.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 158,
+    "name": "Carnivine",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_158_EN.webp",
+    "local_image_path": "card_images/A2_158.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 159,
+    "name": "Shaymin",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_159_EN.webp",
+    "local_image_path": "card_images/A2_159.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 160,
+    "name": "Mamoswine",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_160_EN.webp",
+    "local_image_path": "card_images/A2_160.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 161,
+    "name": "Gastrodon",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_161_EN.webp",
+    "local_image_path": "card_images/A2_161.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 162,
+    "name": "Manaphy",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_162_EN.webp",
+    "local_image_path": "card_images/A2_162.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 163,
+    "name": "Shinx",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_163_EN.webp",
+    "local_image_path": "card_images/A2_163.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 164,
+    "name": "Rotom",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_164_EN.webp",
+    "local_image_path": "card_images/A2_164.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 165,
+    "name": "Drifloon",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_165_EN.webp",
+    "local_image_path": "card_images/A2_165.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 166,
+    "name": "Mesprit",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_166_EN.webp",
+    "local_image_path": "card_images/A2_166.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 167,
+    "name": "Giratina",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_167_EN.webp",
+    "local_image_path": "card_images/A2_167.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 168,
+    "name": "Cresselia",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_168_EN.webp",
+    "local_image_path": "card_images/A2_168.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 169,
+    "name": "Rhyperior",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_169_EN.webp",
+    "local_image_path": "card_images/A2_169.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 170,
+    "name": "Lucario",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_170_EN.webp",
+    "local_image_path": "card_images/A2_170.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 171,
+    "name": "Hippopotas",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_171_EN.webp",
+    "local_image_path": "card_images/A2_171.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 172,
+    "name": "Spiritomb",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_172_EN.webp",
+    "local_image_path": "card_images/A2_172.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 173,
+    "name": "Croagunk",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_173_EN.webp",
+    "local_image_path": "card_images/A2_173.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 174,
+    "name": "Heatran",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_174_EN.webp",
+    "local_image_path": "card_images/A2_174.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 175,
+    "name": "Garchomp",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_175_EN.webp",
+    "local_image_path": "card_images/A2_175.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 176,
+    "name": "Staraptor",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_176_EN.webp",
+    "local_image_path": "card_images/A2_176.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 177,
+    "name": "Bidoof",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_177_EN.webp",
+    "local_image_path": "card_images/A2_177.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 178,
+    "name": "Glameow",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_178_EN.webp",
+    "local_image_path": "card_images/A2_178.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 179,
+    "name": "Regigigas",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_179_EN.webp",
+    "local_image_path": "card_images/A2_179.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 180,
+    "name": "Yanmega ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_180_EN.webp",
+    "local_image_path": "card_images/A2_180.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 181,
+    "name": "Infernape ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_181_EN.webp",
+    "local_image_path": "card_images/A2_181.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 182,
+    "name": "Palkia ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_182_EN.webp",
+    "local_image_path": "card_images/A2_182.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 183,
+    "name": "Pachirisu ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_183_EN.webp",
+    "local_image_path": "card_images/A2_183.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 184,
+    "name": "Mismagius ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_184_EN.webp",
+    "local_image_path": "card_images/A2_184.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 185,
+    "name": "Gallade ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_185_EN.webp",
+    "local_image_path": "card_images/A2_185.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 186,
+    "name": "Weavile ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_186_EN.webp",
+    "local_image_path": "card_images/A2_186.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 187,
+    "name": "Darkrai ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_187_EN.webp",
+    "local_image_path": "card_images/A2_187.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 188,
+    "name": "Dialga ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_188_EN.webp",
+    "local_image_path": "card_images/A2_188.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 189,
+    "name": "Lickilicky ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_189_EN.webp",
+    "local_image_path": "card_images/A2_189.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 190,
+    "name": "Cyrus",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_190_EN.webp",
+    "local_image_path": "card_images/A2_190.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 191,
+    "name": "Team Galactic Grunt",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_191_EN.webp",
+    "local_image_path": "card_images/A2_191.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 192,
+    "name": "Cynthia",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_192_EN.webp",
+    "local_image_path": "card_images/A2_192.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 193,
+    "name": "Volkner",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_193_EN.webp",
+    "local_image_path": "card_images/A2_193.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 194,
+    "name": "Dawn",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_194_EN.webp",
+    "local_image_path": "card_images/A2_194.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 195,
+    "name": "Mars",
+    "type": "Trainer",
+    "stage": "Supporter",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_195_EN.webp",
+    "local_image_path": "card_images/A2_195.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 196,
+    "name": "Yanmega ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_196_EN.webp",
+    "local_image_path": "card_images/A2_196.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 197,
+    "name": "Infernape ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_197_EN.webp",
+    "local_image_path": "card_images/A2_197.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 198,
+    "name": "Pachirisu ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_198_EN.webp",
+    "local_image_path": "card_images/A2_198.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 199,
+    "name": "Mismagius ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_199_EN.webp",
+    "local_image_path": "card_images/A2_199.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 200,
+    "name": "Gallade ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 2",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_200_EN.webp",
+    "local_image_path": "card_images/A2_200.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 201,
+    "name": "Weavile ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_201_EN.webp",
+    "local_image_path": "card_images/A2_201.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 202,
+    "name": "Darkrai ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_202_EN.webp",
+    "local_image_path": "card_images/A2_202.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 203,
+    "name": "Lickilicky ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Stage 1",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_203_EN.webp",
+    "local_image_path": "card_images/A2_203.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 204,
+    "name": "Palkia ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_204_EN.webp",
+    "local_image_path": "card_images/A2_204.webp",
+    "exclusive": "Palkia"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 205,
+    "name": "Dialga ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_205_EN.webp",
+    "local_image_path": "card_images/A2_205.webp",
+    "exclusive": "Dialga"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 206,
+    "name": "Palkia ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_206_EN.webp",
+    "local_image_path": "card_images/A2_206.webp",
+    "exclusive": "None"
+  },
+  {
+    "deck_id": "A2",
+    "card_id": 207,
+    "name": "Dialga ex",
+    "type": "Pok\u00e9mon",
+    "stage": "Basic",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_207_EN.webp",
+    "local_image_path": "card_images/A2_207.webp",
+    "exclusive": "None"
+  }
+]

@@ -57,6 +57,7 @@ class Card(models.Model):
             "stage": self.stage,
             "image_url": self.image_url,
             "local_image_path": self.local_image_path,
+            "exclusive": self.exclusive,
             "wishlist": hasattr(self, 'wishlist_entry')
     }
     

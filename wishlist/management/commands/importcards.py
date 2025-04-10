@@ -69,6 +69,7 @@ class Command(BaseCommand):
 
             # Get exclusive value from JSON
             exclusive_text = entry.get("exclusive", "None")
+            print(f"🔍 Card ID {card_id} - exclusive: {exclusive_text}")
 
             image_url = entry["image_url"]
 
