@@ -63,7 +63,9 @@ function show_wishlist() {
 
 function remove_from_wishlist(card_id) {
 
-  console.log("🧪 Remove button clicked:", card_id);  // Add this!
+  const url = `/remove_from_wishlist/${card_id}`;
+  console.log("🧪 Remove button clicked:", card_id);
+  console.log("📡 Fetching URL:", url);
 
   fetch(`/remove_from_wishlist/${card_id}`, {
     method: "DELETE",
