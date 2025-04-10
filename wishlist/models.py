@@ -38,6 +38,7 @@ class Card(models.Model):
     stage = models.CharField(max_length=64, choices=STAGES, default='Pokémon', blank=True, null=True)
     image_url = models.URLField(max_length=500)
     local_image_path = models.CharField(max_length=255, blank=True, null=True)
+    exclusive = models.CharField(max_length=100, blank=True, null=True)
     
     deck = models.ForeignKey(Deck, on_delete=models.CASCADE, related_name='cards')
 

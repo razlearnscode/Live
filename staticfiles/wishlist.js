@@ -36,6 +36,7 @@ function show_wishlist() {
                 <h4>${card.name}</h4>
                 <p>Type: ${formatChoice(card.type)}</p>
                 <p>Stage: ${formatChoice(card.stage)}</p>
+                <p>Exclusive: ${card.exclusive}</p>
             </div>
             <div class="card-overlay"></div>
                     `;

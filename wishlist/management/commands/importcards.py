@@ -67,6 +67,9 @@ class Command(BaseCommand):
             else:
                 stage_value = None
 
+            # Get exclusive value from JSON
+            exclusive_text = entry.get("exclusive", "None")
+
             image_url = entry["image_url"]
 
             # Handle local image copying
@@ -88,6 +91,7 @@ class Command(BaseCommand):
             card.stage = stage_value
             card.image_url = image_url
             card.local_image_path = media_relative_path
+            card.exclusive = exclusive_text  # ✅ Add exclusive field here
             card.save()
 
             if created:
