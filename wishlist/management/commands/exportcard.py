@@ -1,6 +1,6 @@
 import csv
 from pathlib import Path
-
+from django.conf import settings
 from django.core.management.base import BaseCommand
 from wishlist.models import Card
 
@@ -12,12 +12,16 @@ class Command(BaseCommand):
         parser.add_argument(
             '--output',
             type=str,
-            help='Path to output CSV file',
+            help='Path to output CSV file (relative to media/)',
             default='cards_export.csv'
         )
 
     def handle(self, *args, **options):
-        output_path = Path(options['output'])
+        media_root = Path(settings.MEDIA_ROOT)
+        output_path = media_root / options['output']
+
+        # Create parent folders if they don't exist
+        output_path.parent.mkdir(parents=True, exist_ok=True)
 
         cards = Card.objects.select_related('deck').all()
 
