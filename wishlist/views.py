@@ -6,6 +6,8 @@ from wishlist.models import Deck, Wishlist, Card
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
 from django.views.decorators.csrf import ensure_csrf_cookie
+from django.http import FileResponse, Http404
+import os
 
 
 # Create your views here.
@@ -60,3 +62,12 @@ def remove_from_wishlist(request, card_id):
     return JsonResponse({"error": "Invalid request method"}, status=405)
 
         
+
+
+def download_generated_file(request):
+    file_path = os.path.join('static', 'generated', 'your_file.csv')
+    
+    if os.path.exists(file_path):
+        return FileResponse(open(file_path, 'rb'), as_attachment=True, filename='your_file.csv')
+    else:
+        raise Http404("File not found")

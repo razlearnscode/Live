@@ -6,4 +6,5 @@ urlpatterns = [
     path("wishlist", views.show_wishlist, name="show_wishlist"),
     path("add_to_wishlist/<int:card_id>", views.add_to_wishlist, name="add_to_wishlist"),
     path("remove_from_wishlist/<int:card_id>", views.remove_from_wishlist, name="remove_from_wishlist"),
+    path('download-csv/', views.download_generated_file, name='download_csv'),
 ]
