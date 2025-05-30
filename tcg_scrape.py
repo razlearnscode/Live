@@ -6,9 +6,9 @@ import json
 
 # Configuration
 BASE_URL = "https://pocket.limitlesstcg.com/cards"
-DECK_ID = "A3"
+DECK_ID = "A3a"
 START_ID = 1
-END_ID = 155
+END_ID = 69
 
 cards = []
 
